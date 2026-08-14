@@ -594,7 +594,7 @@
             "last_commit": "2017-03-12T15:16:37Z",
             "owner": "hdavid",
             "repo": "dmxP512",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:42.045Z",
+    "last_updated": "2026-08-14T05:01:23.840Z",
     "original_repository": "zakarialaoui10/awesome-processing",
     "original_repository_sha": "f218937a61e07c838a389db0201701b894344836",
     "enhanced_repository": "enhansome/enhansome-processing",

@@ -130,7 +130,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Signal Filter](https://github.com/SableRaf/signalfilter) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2023-08-11 - by [Raphael de Courville](https://vimeo.com/sableraf/)
 * [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) ⭐ 43 | 🐛 0 | 🌐 Java | 📅 2024-08-27 - by [Lynn Jarvis](https://spout.zeal.co/)
 * [BezierSQLib](https://github.com/fjenett/sql-library-processing) ⭐ 40 | 🐛 13 | 🌐 Java | 📅 2023-03-18 - by [Florian Jenett](http://www.bezier.de/)
-* [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
+* [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 34 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [HiVis](https://github.com/OliverColeman/hivis) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2017-08-25 - by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
