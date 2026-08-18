@@ -113,7 +113,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) ⭐ 287 | 🐛 15 | 🌐 Java | 📅 2025-09-04 - by [Daniel Shiffman](http://www.shiffman.net/)
 * [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) ⭐ 207 | 🐛 5 | 🌐 HTML | 📅 2023-06-01 - by [Nick 'Milchreis' Müller](http://github.com/milchreis)
 * [HTTP Requests for Processing](https://github.com/runemadsen/HTTP-Requests-for-Processing) ⭐ 145 | 🐛 19 | 🌐 Java | 📅 2022-05-30 - by [Rune Madsen](http://www.runemadsen.com/)
-* [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 143 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
+* [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 142 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
 * [RunwayML Processing Library](https://github.com/runwayml/processing-library) ⚠️ Archived - by [George Profenza](http://sensori.al/)
 * [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 110 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
 * [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 107 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
