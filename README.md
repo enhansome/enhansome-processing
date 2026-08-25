@@ -97,7 +97,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 * [nub](https://github.com/VisualComputing/nub) ⭐ 40 | 🐛 0 | 🌐 Java | 📅 2023-06-13 - by [Jean Pierre Charalambos](https://visualcomputing.github.io/)
 * [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
-* [Latk for Processing](https://github.com/LightningArtist/latkProcessing) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2025-02-26 - by [Nick Fox-Gieg](https://fox-gieg.com/)
+* [Latk for Processing](https://github.com/LightningArtist/latkProcessing) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - by [Nick Fox-Gieg](https://fox-gieg.com/)
 * [Ani](http://benedikt-gross.de/libraries/Ani/) - by [Benedikt Gross](http://benedikt-gross.de/)
 * [Green](https://ztdp.ca/projects/school/Green) - by [Zacchary Dempsey-Plante](https://ztdp.ca/)
 * [Sprites](http://www.lagers.org.uk/s4p) - by [Peter Lager](http://www.lagers.org.uk/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

@@ -262,7 +262,7 @@
                     "archived": false,
                     "id": 88066814,
                     "language": "HTML",
-                    "last_commit": "2025-02-26T19:19:41Z",
+                    "last_commit": "2026-08-24T17:49:43Z",
                     "owner": "LightningArtist",
                     "repo": "latkProcessing",
                     "stars": 2
@@ -1115,7 +1115,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:10.314Z",
+    "last_updated": "2026-08-25T03:59:04.897Z",
     "original_repository": "zakarialaoui10/awesome-processing",
     "original_repository_id": 536289664,
     "original_repository_sha": "f218937a61e07c838a389db0201701b894344836",
