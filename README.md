@@ -106,7 +106,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 #### Geometry
 
-* [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,355 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
+* [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,356 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
 * [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,284 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,284 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
