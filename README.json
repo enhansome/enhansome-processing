@@ -1115,9 +1115,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:02:41.572Z",
-    "original_repository": "zakarialaoui10/awesome-processing",
-    "original_repository_id": 536289664,
+    "last_updated": "2026-08-27T11:58:58.430Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 536289664,
+      "language": "Processing",
+      "last_commit": "2026-01-15T20:52:55Z",
+      "owner": "zakarialaoui10",
+      "repo": "awesome-processing",
+      "stars": 59
+    },
     "original_repository_sha": "f218937a61e07c838a389db0201701b894344836",
     "enhanced_repository": "enhansome/enhansome-processing",
     "enhanced_repository_description": null,
