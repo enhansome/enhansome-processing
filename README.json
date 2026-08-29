@@ -14,12 +14,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Processing library for dome projection.",
+                    "homepage": "http://processing.andrescolubri.net/libraries/planetarium/",
                     "id": 15741509,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-07-28T19:14:53Z",
+                    "open_issues": 9,
                     "owner": "codeanticode",
                     "repo": "planetarium",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": [
+                      "dome",
+                      "java",
+                      "processing-library",
+                      "shaders"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -30,12 +40,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "(!!! NOTE: INACTIVE PROJECT !!!) A super-simple FPS camera library for Processing.",
+                    "homepage": null,
                     "id": 62401579,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-03-12T17:06:46Z",
+                    "open_issues": 7,
                     "owner": "jrc03c",
                     "repo": "queasycam",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -46,12 +61,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A rendering and interaction Processing library",
+                    "homepage": null,
                     "id": 208351289,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-06-13T15:56:29Z",
+                    "open_issues": 0,
                     "owner": "VisualComputing",
                     "repo": "nub",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "3d",
+                      "3d-graphics",
+                      "graphics",
+                      "hci",
+                      "processing",
+                      "rendering",
+                      "scenegraph"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -62,12 +90,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing extension of EWBIK, A robust Inverse Kinematics library java.",
+                    "homepage": null,
                     "id": 210263229,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-05-28T18:56:00Z",
+                    "open_issues": 1,
                     "owner": "EGjoni",
                     "repo": "Everything-Will-Be-IK-Processing",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 }
@@ -85,12 +118,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"GUI do ...\" another Processing GUI library",
+                    "homepage": null,
                     "id": 3898861,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2014-05-25T20:15:44Z",
+                    "open_issues": 11,
                     "owner": "fjenett",
                     "repo": "Guido",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -101,12 +139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A graphical user interface library for the Processing graphics programming environment",
+                    "homepage": "http://interfascia.berg.industries/",
                     "id": 3959063,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-30T22:50:16Z",
+                    "open_issues": 1,
                     "owner": "brendanberg",
                     "repo": "interfascia",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -117,12 +160,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🚀 Creates fast and easy dialogs for utility tools for Processing",
+                    "homepage": "https://milchreis.github.io/uibooster-for-processing//",
                     "id": 261843778,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T20:38:30Z",
+                    "open_issues": 1,
                     "owner": "Milchreis",
                     "repo": "uibooster-for-processing",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -133,12 +181,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Display values in an analog style meter.",
+                    "homepage": null,
                     "id": 99535261,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2018-10-09T06:19:42Z",
+                    "open_issues": 2,
                     "owner": "BillKujawa",
                     "repo": "meter",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -149,12 +202,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library for using swing components with Processing.",
+                    "homepage": null,
                     "id": 495937053,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2022-06-10T13:56:57Z",
+                    "open_issues": 0,
                     "owner": "NumericPrime",
                     "repo": "SwingHelperProcessing",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 }
@@ -172,12 +230,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "wellen is a framework for exploring and teaching generative music making and algorithmic compositions.",
+                    "homepage": null,
                     "id": 308667276,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-06T20:29:32Z",
+                    "open_issues": 3,
                     "owner": "dennisppaul",
                     "repo": "wellen",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "processing-library",
+                      "sound"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -188,12 +254,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing Audio implementation for Android",
+                    "homepage": null,
                     "id": 44549063,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2015-11-04T12:50:52Z",
+                    "open_issues": 2,
                     "owner": "shlomihod",
                     "repo": "cassette",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -204,12 +275,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A real-time audio synthesis library for Processing 3 and 4. Pd4P3 implements Pure Data's signal processing objects via Pd++ native code. Pd4P3 stands for \"Pd++ for Processing 3\".",
+                    "homepage": null,
                     "id": 366469323,
                     "language": "Java",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-06-25T23:31:35Z",
+                    "open_issues": 1,
                     "owner": "robertesler",
                     "repo": "Pd4P3",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "audio",
+                      "music",
+                      "real-time",
+                      "synthesis"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -220,12 +301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mod Player for Processing",
+                    "homepage": null,
                     "id": 261693224,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-01-04T11:05:29Z",
+                    "open_issues": 2,
                     "owner": "sphaero",
                     "repo": "procmod",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 }
@@ -243,12 +329,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A rendering and interaction Processing library",
+                    "homepage": null,
                     "id": 208351289,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-06-13T15:56:29Z",
+                    "open_issues": 0,
                     "owner": "VisualComputing",
                     "repo": "nub",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "3d",
+                      "3d-graphics",
+                      "graphics",
+                      "hci",
+                      "processing",
+                      "rendering",
+                      "scenegraph"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -259,12 +358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing extension of EWBIK, A robust Inverse Kinematics library java.",
+                    "homepage": null,
                     "id": 210263229,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-05-28T18:56:00Z",
+                    "open_issues": 1,
                     "owner": "EGjoni",
                     "repo": "Everything-Will-Be-IK-Processing",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -275,12 +379,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Read Latk, Tilt Brush, and Quill files, tested in Processing 3 and 4. Available from the Processing Contribution Manager.",
+                    "homepage": "https://lightningartist.org",
                     "id": 88066814,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T17:49:43Z",
+                    "open_issues": 0,
                     "owner": "LightningArtist",
                     "repo": "latkProcessing",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "java",
+                      "latk",
+                      "processing",
+                      "vr",
+                      "xr"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 }
@@ -298,12 +413,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenCV for Processing. A creative coding computer vision library based on the official OpenCV Java API",
+                    "homepage": null,
                     "id": 9136356,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-06-12T19:31:23Z",
+                    "open_issues": 47,
                     "owner": "atduskgreg",
                     "repo": "opencv-processing",
-                    "stars": 1356
+                    "stars": 1356,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -314,12 +434,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Processing/Java library for high performance GPU-Computing (GLSL). Fluid Simulation + SoftBody Dynamics + Optical Flow + Rendering + Image Processing + Particle Systems + Physics +...",
+                    "homepage": "https://diwi.github.io/PixelFlow",
                     "id": 67459953,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2018-01-10T18:06:29Z",
+                    "open_issues": 17,
                     "owner": "diwi",
                     "repo": "PixelFlow",
-                    "stars": 1284
+                    "stars": 1284,
+                    "topics": [
+                      "antialiasing",
+                      "cloth-simulation",
+                      "filters",
+                      "fluid-simulation",
+                      "glsl",
+                      "opengl",
+                      "postprocessing",
+                      "processing-ide",
+                      "skylight",
+                      "softbody-dynamics"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -330,12 +466,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Processing/Java library for high performance GPU-Computing (GLSL). Fluid Simulation + SoftBody Dynamics + Optical Flow + Rendering + Image Processing + Particle Systems + Physics +...",
+                    "homepage": "https://diwi.github.io/PixelFlow",
                     "id": 67459953,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2018-01-10T18:06:29Z",
+                    "open_issues": 17,
                     "owner": "diwi",
                     "repo": "PixelFlow",
-                    "stars": 1284
+                    "stars": 1284,
+                    "topics": [
+                      "antialiasing",
+                      "cloth-simulation",
+                      "filters",
+                      "fluid-simulation",
+                      "glsl",
+                      "opengl",
+                      "postprocessing",
+                      "processing-ide",
+                      "skylight",
+                      "softbody-dynamics"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -346,12 +498,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Contributed library to use the Leap Motion in Processing.",
+                    "homepage": "https://github.com/nok/leap-motion-processing",
                     "id": 7993534,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-10-11T13:45:53Z",
+                    "open_issues": 5,
                     "owner": "nok",
                     "repo": "leap-motion-processing",
-                    "stars": 307
+                    "stars": 307,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -362,12 +519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing JBox2D helper library and examples",
+                    "homepage": null,
                     "id": 1437851,
                     "language": "Java",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2025-09-04T21:24:19Z",
+                    "open_issues": 15,
                     "owner": "shiffman",
                     "repo": "Box2D-for-Processing",
-                    "stars": 287
+                    "stars": 287,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -378,12 +540,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of basic image processing algorithms for processing",
+                    "homepage": null,
                     "id": 116294522,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2023-06-01T05:01:59Z",
+                    "open_issues": 5,
                     "owner": "Milchreis",
                     "repo": "processing-imageprocessing",
-                    "stars": 207
+                    "stars": 207,
+                    "topics": [
+                      "brightness",
+                      "contrast",
+                      "dithering",
+                      "edge-detection",
+                      "halftone",
+                      "image",
+                      "image-processing",
+                      "processing",
+                      "sharpen",
+                      "split-toning",
+                      "tilt-shift",
+                      "toning",
+                      "vignette"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -394,12 +575,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://www.runemadsen.com",
                     "id": 3675163,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2022-05-30T09:48:41Z",
+                    "open_issues": 19,
                     "owner": "runemadsen",
                     "repo": "HTTP-Requests-for-Processing",
-                    "stars": 145
+                    "stars": 145,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -410,12 +596,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AndroidCapture For Processing",
+                    "homepage": null,
                     "id": 48174894,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2018-11-24T07:08:12Z",
+                    "open_issues": 5,
                     "owner": "onlylemi",
                     "repo": "processing-android-capture",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": [
+                      "android",
+                      "creative-coding",
+                      "processing",
+                      "processing-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -426,12 +622,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "RunwayML-for-Processing",
+                    "homepage": "https://runwayml.github.io/processing-library/",
                     "id": 197783148,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-04-11T22:18:21Z",
+                    "open_issues": 2,
                     "owner": "runwayml",
                     "repo": "processing-library",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "java",
+                      "machine-learning",
+                      "processing",
+                      "runwayml"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -442,12 +648,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Art-Net DMX over IP library for Java and Processing",
+                    "homepage": null,
                     "id": 71836684,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-24T18:23:52Z",
+                    "open_issues": 12,
                     "owner": "cansik",
                     "repo": "artnet4j",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": [
+                      "artnet",
+                      "dmx",
+                      "java",
+                      "light",
+                      "network",
+                      "processing",
+                      "udp"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -458,12 +677,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep computer-vision algorithms for the Processing framework.",
+                    "homepage": null,
                     "id": 242500562,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2026-01-09T12:48:28Z",
+                    "open_issues": 9,
                     "owner": "cansik",
                     "repo": "deep-vision-processing",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "classification",
+                      "computer-vision",
+                      "cuda-support",
+                      "deep-neural-networks",
+                      "inference-engine",
+                      "machine-learning",
+                      "pose-estimation",
+                      "processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -474,12 +707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Implementation of the $1 Gesture Recognizer, a two-dimensional template based gesture recognition, for Processing.",
+                    "homepage": null,
                     "id": 6341091,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-04-21T00:46:16Z",
+                    "open_issues": 2,
                     "owner": "nok",
                     "repo": "onedollar-unistroke-recognizer",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -490,12 +728,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A web socket library, including both server and client, for Processing",
+                    "homepage": null,
                     "id": 48043232,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2022-09-09T13:08:51Z",
+                    "open_issues": 14,
                     "owner": "alexandrainst",
                     "repo": "processing_websockets",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -506,12 +749,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Intel RealSense 2 support for the Processing framework.",
+                    "homepage": null,
                     "id": 141164174,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2023-10-21T08:52:54Z",
+                    "open_issues": 6,
                     "owner": "cansik",
                     "repo": "realsense-processing",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "camera",
+                      "intel",
+                      "java",
+                      "library",
+                      "processing",
+                      "realsense",
+                      "realsense-camera"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -522,12 +778,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MQTT library for Processing based on the Eclipse Paho project",
+                    "homepage": null,
                     "id": 26804168,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2021-01-06T13:28:31Z",
+                    "open_issues": 3,
                     "owner": "256dpi",
                     "repo": "processing-mqtt",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -538,12 +799,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Draw dashed strokes in Processing!",
+                    "homepage": null,
                     "id": 89379534,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2018-10-30T20:33:32Z",
+                    "open_issues": 4,
                     "owner": "garciadelcastillo",
                     "repo": "-dashed-lines-for-processing-",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -554,12 +820,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Hardware accelerated video playback using GL textures (for Processing on Raspberry Pi)",
+                    "homepage": null,
                     "id": 53142453,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2019-04-14T20:39:38Z",
+                    "open_issues": 10,
                     "owner": "gohai",
                     "repo": "processing-glvideo",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -570,12 +841,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Box2D/LiquidFun Library for Processing.",
+                    "homepage": null,
                     "id": 94473558,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2017-10-12T16:02:58Z",
+                    "open_issues": 1,
                     "owner": "diwi",
                     "repo": "LiquidFunProcessing",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": [
+                      "box2d",
+                      "liquid",
+                      "liquidfun",
+                      "particlesystem",
+                      "physics",
+                      "processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -586,12 +869,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Contributed library to use multiple Myo's in Processing.",
+                    "homepage": "https://github.com/nok/myo-processing",
                     "id": 26214182,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-10-14T23:42:48Z",
+                    "open_issues": 2,
                     "owner": "nok",
                     "repo": "myo-processing",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -602,12 +890,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a simple physics library based on particles, forces, constraints and behaviors",
+                    "homepage": null,
                     "id": 1147062,
                     "language": "Java",
+                    "license": "LGPL-2.1",
                     "last_commit": "2024-11-09T12:06:02Z",
+                    "open_issues": 3,
                     "owner": "dennisppaul",
                     "repo": "teilchen",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "particles",
+                      "physics-library",
+                      "processing-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -618,12 +915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A signal filtering library for Processing",
+                    "homepage": null,
                     "id": 11622562,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-08-11T07:28:00Z",
+                    "open_issues": 0,
                     "owner": "SableRaf",
                     "repo": "signalfilter",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -634,12 +936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing library for Spout texture sharing between applications on Windows",
+                    "homepage": null,
                     "id": 48080077,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-27T05:53:25Z",
+                    "open_issues": 0,
                     "owner": "leadedge",
                     "repo": "SpoutProcessing",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -650,12 +957,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SQLibrary – a SQL database library for Processing incl. MySQL, SQLite and PostgreSQL",
+                    "homepage": "http://fjenett.github.com/sql-library-processing/",
                     "id": 586917,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2023-03-18T07:48:23Z",
+                    "open_issues": 13,
                     "owner": "fjenett",
                     "repo": "sql-library-processing",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -666,12 +978,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " DMX output processing library for ENTTEC DMX USB Pro and LanBox LCE.",
+                    "homepage": "http://motscousus.com/stuff/2011-01_dmxP512/",
                     "id": 7057510,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-03-12T15:16:37Z",
+                    "open_issues": 0,
                     "owner": "hdavid",
                     "repo": "dmxP512",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": [
+                      "dmx",
+                      "enttec",
+                      "java",
+                      "processing",
+                      "processing-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -682,12 +1005,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Combinatorics – a Processing library for combinations, variations, permutations",
+                    "homepage": null,
                     "id": 586150,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2013-04-15T19:39:39Z",
+                    "open_issues": 0,
                     "owner": "fjenett",
                     "repo": "combinatorics",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -698,12 +1026,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Combinatorics – a Processing library for combinations, variations, permutations",
+                    "homepage": null,
                     "id": 586150,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2013-04-15T19:39:39Z",
+                    "open_issues": 0,
                     "owner": "fjenett",
                     "repo": "combinatorics",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -714,12 +1047,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools to import, manipulate and interactively visualise data.",
+                    "homepage": null,
                     "id": 64264884,
                     "language": "Java",
+                    "license": "LGPL-2.1",
                     "last_commit": "2017-08-25T02:10:04Z",
+                    "open_issues": 4,
                     "owner": "OliverColeman",
                     "repo": "hivis",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -730,12 +1068,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools to import, manipulate and interactively visualise data.",
+                    "homepage": null,
                     "id": 64264884,
                     "language": "Java",
+                    "license": "LGPL-2.1",
                     "last_commit": "2017-08-25T02:10:04Z",
+                    "open_issues": 4,
                     "owner": "OliverColeman",
                     "repo": "hivis",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -746,12 +1089,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing extension of EWBIK, A robust Inverse Kinematics library java.",
+                    "homepage": null,
                     "id": 210263229,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-05-28T18:56:00Z",
+                    "open_issues": 1,
                     "owner": "EGjoni",
                     "repo": "Everything-Will-Be-IK-Processing",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -762,12 +1110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use Tiled maps on your Processing sketch.",
+                    "homepage": null,
                     "id": 54076549,
                     "language": "Java",
+                    "license": "LGPL-3.0",
                     "last_commit": "2021-11-08T12:17:02Z",
+                    "open_issues": 0,
                     "owner": "linux-man",
                     "repo": "ptmx",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -778,12 +1131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaFX library for Processing 4",
+                    "homepage": null,
                     "id": 448591023,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2022-03-12T17:52:55Z",
+                    "open_issues": 16,
                     "owner": "processing",
                     "repo": "processing4-javafx",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -794,12 +1152,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SFTP Library for Processing",
+                    "homepage": null,
                     "id": 201086866,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2019-08-07T16:34:56Z",
+                    "open_issues": 1,
                     "owner": "shiffman",
                     "repo": "SFTP-Processing",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -810,12 +1173,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sony PS3Eye Java/Processing Library.",
+                    "homepage": null,
                     "id": 86230185,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2017-04-20T03:30:47Z",
+                    "open_issues": 2,
                     "owner": "diwi",
                     "repo": "PS3Eye",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "libusb",
+                      "processing",
+                      "ps3eye",
+                      "ps3eye-driver"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -826,12 +1199,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sony PS3Eye Java/Processing Library.",
+                    "homepage": null,
                     "id": 86230185,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2017-04-20T03:30:47Z",
+                    "open_issues": 2,
                     "owner": "diwi",
                     "repo": "PS3Eye",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "libusb",
+                      "processing",
+                      "ps3eye",
+                      "ps3eye-driver"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -842,12 +1225,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[unmaintained] Wrapper to use Redis in Processing. It's based on Jedis, a small Java client by Jonathan Leibiusky.",
+                    "homepage": null,
                     "id": 14651783,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2015-02-05T15:24:48Z",
+                    "open_issues": 0,
                     "owner": "nok",
                     "repo": "redis-processing",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -858,12 +1246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Display values in an analog style meter.",
+                    "homepage": null,
                     "id": 99535261,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2018-10-09T06:19:42Z",
+                    "open_issues": 2,
                     "owner": "BillKujawa",
                     "repo": "meter",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -874,12 +1267,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OCT Processing library",
+                    "homepage": null,
                     "id": 36903181,
                     "language": "HTML",
+                    "license": "GPL-2.0",
                     "last_commit": "2016-12-12T13:44:01Z",
+                    "open_issues": 0,
                     "owner": "thwegene",
                     "repo": "OCT",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -890,12 +1288,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing library to use FTDI  DMX devices ",
+                    "homepage": null,
                     "id": 307104996,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-10-25T13:46:08Z",
+                    "open_issues": 5,
                     "owner": "jaysonh",
                     "repo": "Dmx4Artists",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -906,12 +1309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A JAVA wrapper for the Novation Launch Controller aimed at using the MIDI pads and knobs as input for Processing sketches.",
+                    "homepage": null,
                     "id": 122825319,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2024-08-24T11:11:58Z",
+                    "open_issues": 5,
                     "owner": "haschdl",
                     "repo": "pLaunchController",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -922,12 +1330,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a Processing library that can read from .xls (aka. Excel) files",
+                    "homepage": null,
                     "id": 586929,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2023-01-08T20:41:44Z",
+                    "open_issues": 5,
                     "owner": "fjenett",
                     "repo": "xlsreader-library-processing",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -938,12 +1351,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CountdownTimer Library for Processing",
+                    "homepage": null,
                     "id": 18094899,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2015-09-01T00:57:13Z",
+                    "open_issues": 0,
                     "owner": "dhchoi",
                     "repo": "processing-countdowntimer",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -954,12 +1372,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Processing Library",
+                    "homepage": null,
                     "id": 49167226,
                     "language": "HTML",
+                    "license": "GPL-2.0",
                     "last_commit": "2016-05-14T18:13:08Z",
+                    "open_issues": 0,
                     "owner": "keshrath",
                     "repo": "ImageLoader",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -970,12 +1393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[unmaintained] Library to use the SoundCloud API in Processing.",
+                    "homepage": null,
                     "id": 27004537,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2015-02-05T15:35:36Z",
+                    "open_issues": 0,
                     "owner": "nok",
                     "repo": "soundcloud-processing",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -986,12 +1414,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing squarify treemap layout algorithm",
+                    "homepage": null,
                     "id": 184263502,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-06-07T09:26:45Z",
+                    "open_issues": 0,
                     "owner": "agatheblues",
                     "repo": "squarify",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1002,12 +1435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Post images from Processing to Twitter",
+                    "homepage": null,
                     "id": 84825172,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-03-13T12:43:39Z",
+                    "open_issues": 0,
                     "owner": "gohai",
                     "repo": "processing-simpletweet",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1018,12 +1456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing squarify treemap layout algorithm",
+                    "homepage": null,
                     "id": 184263502,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-06-07T09:26:45Z",
+                    "open_issues": 0,
                     "owner": "agatheblues",
                     "repo": "squarify",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1034,12 +1477,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sweep Library for Processing",
+                    "homepage": null,
                     "id": 98173246,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2018-01-25T11:56:52Z",
+                    "open_issues": 1,
                     "owner": "cansik",
                     "repo": "sweep-processing",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "hardware",
+                      "library",
+                      "lidar",
+                      "processing",
+                      "sensor",
+                      "sweep"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1050,12 +1505,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing library for exporting sketch window as JPG or PDF via keyboard or mouse input",
+                    "homepage": "http://transmedia.graphics/",
                     "id": 261850715,
                     "language": "CSS",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-05-12T23:59:32Z",
+                    "open_issues": 0,
                     "owner": "Transmedia-Gx",
                     "repo": "grab",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "export",
+                      "jpg",
+                      "keyboard",
+                      "mouse",
+                      "pdf",
+                      "processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1066,12 +1533,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Processing library for exporting sketch window as JPG or PDF via keyboard or mouse input",
+                    "homepage": "http://transmedia.graphics/",
                     "id": 261850715,
                     "language": "CSS",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-05-12T23:59:32Z",
+                    "open_issues": 0,
                     "owner": "Transmedia-Gx",
                     "repo": "grab",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "export",
+                      "jpg",
+                      "keyboard",
+                      "mouse",
+                      "pdf",
+                      "processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1082,12 +1561,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 210596566,
                     "language": "Java",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-10-22T20:51:39Z",
+                    "open_issues": 0,
                     "owner": "hirschandmann",
                     "repo": "image-sequence-player",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1098,12 +1582,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Processing Library",
+                    "homepage": null,
                     "id": 48915913,
                     "language": "HTML",
+                    "license": "GPL-2.0",
                     "last_commit": "2017-04-22T16:21:01Z",
+                    "open_issues": 0,
                     "owner": "keshrath",
                     "repo": "Console",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1114,12 +1603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Allows you to use double floating point complex numbers in an easy and computationally efficient manner.",
+                    "homepage": null,
                     "id": 337877536,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2024-05-27T06:34:52Z",
+                    "open_issues": 3,
                     "owner": "vmathmachine",
                     "repo": "Complex-Numbers",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1130,12 +1624,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FreeTransform - library for Processing",
+                    "homepage": null,
                     "id": 55333844,
                     "language": "Processing",
+                    "license": "MIT",
                     "last_commit": "2024-08-11T06:52:14Z",
+                    "open_issues": 10,
                     "owner": "barelief",
                     "repo": "freeTransform-processing",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1146,12 +1645,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Processing Library",
+                    "homepage": null,
                     "id": 50781868,
                     "language": "HTML",
+                    "license": "GPL-2.0",
                     "last_commit": "2016-02-03T06:01:28Z",
+                    "open_issues": 0,
                     "owner": "keshrath",
                     "repo": "MuKCast",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1162,12 +1666,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Phidgets library for Processing - made for beginners",
+                    "homepage": null,
                     "id": 349925007,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-06T10:47:57Z",
+                    "open_issues": 0,
                     "owner": "sgeigers",
                     "repo": "SimplePhidgets",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 }
@@ -1186,15 +1695,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:21:44.304Z",
+    "last_updated": "2026-08-29T05:06:07.042Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
+      "homepage": null,
       "id": 536289664,
       "language": "Processing",
+      "license": "CC0-1.0",
       "last_commit": "2026-01-15T20:52:55Z",
+      "open_issues": 1,
       "owner": "zakarialaoui10",
       "repo": "awesome-processing",
-      "stars": 59
+      "stars": 59,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "creative-coding",
+        "p5-js",
+        "processing",
+        "processingjs"
+      ]
     },
     "original_repository_sha": "f218937a61e07c838a389db0201701b894344836",
     "enhanced_repository": "enhansome/enhansome-processing",
