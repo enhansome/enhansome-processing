@@ -115,7 +115,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [HTTP Requests for Processing](https://github.com/runemadsen/HTTP-Requests-for-Processing) ⭐ 145 | 🐛 19 | 🌐 Java | 📅 2022-05-30 - by [Rune Madsen](http://www.runemadsen.com/)
 * [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 142 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
 * [RunwayML Processing Library](https://github.com/runwayml/processing-library) ⚠️ Archived - by [George Profenza](http://sensori.al/)
-* [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 110 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
+* [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 111 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
 * [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 107 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
 * [$1 Unistroke Recognizer](https://github.com/nok/onedollar-unistroke-recognizer) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Websockets](https://github.com/alexandrainst/processing_websockets) ⭐ 95 | 🐛 14 | 🌐 HTML | 📅 2022-09-09 - by [Lasse Steenbock Vestergaard]()
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
