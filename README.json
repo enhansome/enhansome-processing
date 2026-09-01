@@ -1388,6 +1388,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Squarify",
+                  "description": "by Agathe Lenclen",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Processing squarify treemap layout algorithm",
+                    "homepage": null,
+                    "id": 184263502,
+                    "language": "Java",
+                    "license": "NOASSERTION",
+                    "last_commit": "2019-06-07T09:26:45Z",
+                    "open_issues": 0,
+                    "owner": "agatheblues",
+                    "repo": "squarify",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SoundCloud",
                   "description": "by Darius Morawiec",
                   "children": [],
@@ -1423,7 +1444,7 @@
                     "open_issues": 0,
                     "owner": "agatheblues",
                     "repo": "squarify",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -1444,27 +1465,6 @@
                     "open_issues": 0,
                     "owner": "gohai",
                     "repo": "processing-simpletweet",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Squarify",
-                  "description": "by Agathe Lenclen",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Processing squarify treemap layout algorithm",
-                    "homepage": null,
-                    "id": 184263502,
-                    "language": "Java",
-                    "license": "NOASSERTION",
-                    "last_commit": "2019-06-07T09:26:45Z",
-                    "open_issues": 0,
-                    "owner": "agatheblues",
-                    "repo": "squarify",
                     "stars": 7,
                     "topics": []
                   },
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:43:53.047Z",
+    "last_updated": "2026-09-01T08:38:23.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",

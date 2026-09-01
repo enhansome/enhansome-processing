@@ -151,10 +151,10 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [XlsReader](https://github.com/fjenett/xlsreader-library-processing) ⭐ 13 | 🐛 5 | 🌐 Java | 📅 2023-01-08 - by [Florian Jenett](http://www.bezier.de/)
 * [CountdownTimer](https://github.com/dhchoi/processing-countdowntimer) ⭐ 12 | 🐛 0 | 🌐 Java | 📅 2015-09-01 - by [Dong Hyun Choi](http://dhchoi.com/)
 * [ImageLoader](https://github.com/keshrath/ImageLoader) ⚠️ Archived - by [Mathias Markl](http://www.mukprojects.at/)
+* [Squarify](https://github.com/agatheblues/squarify) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
 * [SoundCloud](https://github.com/nok/soundcloud-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
-* [Squarify](https://github.com/agatheblues/squarify) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
+* [Squarify](https://github.com/agatheblues/squarify) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
 * [Simple Tweet](https://github.com/gohai/processing-simpletweet) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2017-03-13 - by [Gottfried Haider](http://gottfriedhaider.com/)
-* [Squarify](https://github.com/agatheblues/squarify) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
 * [Sweep for Processing](https://github.com/cansik/sweep-processing) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2018-01-25 - by [Florian Bruggisser](https://bildspur.ch/)
 * [Grab](https://github.com/Transmedia-Gx/grab) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2020-05-12 - by [Taka Iwai, Roy Tatum](http://transmedia.graphics/)
 * [Grab](https://github.com/Transmedia-Gx/grab) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2020-05-12 - by [Taka Iwai, Roy Tatum](http://transmedia.graphics/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
