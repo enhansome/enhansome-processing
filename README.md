@@ -116,10 +116,10 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 142 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
 * [RunwayML Processing Library](https://github.com/runwayml/processing-library) ⚠️ Archived - by [George Profenza](http://sensori.al/)
 * [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 111 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
-* [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 107 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
+* [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 108 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
 * [$1 Unistroke Recognizer](https://github.com/nok/onedollar-unistroke-recognizer) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Websockets](https://github.com/alexandrainst/processing_websockets) ⭐ 95 | 🐛 14 | 🌐 HTML | 📅 2022-09-09 - by [Lasse Steenbock Vestergaard]()
-* [Intel RealSense for Processing](https://github.com/cansik/realsense-processing) ⭐ 84 | 🐛 6 | 🌐 Java | 📅 2023-10-21 - by [Florian Bruggisser](https://bildspur.ch/)
+* [Intel RealSense for Processing](https://github.com/cansik/realsense-processing) ⭐ 86 | 🐛 6 | 🌐 Java | 📅 2023-10-21 - by [Florian Bruggisser](https://bildspur.ch/)
 * [MQTT](https://github.com/256dpi/processing-mqtt) ⭐ 76 | 🐛 3 | 🌐 Java | 📅 2021-01-06 - by [Joel Gaehwiler](https://github.com/256dpi)
 * [Dashed Lines](https://github.com/garciadelcastillo/-dashed-lines-for-processing-) ⭐ 73 | 🐛 4 | 🌐 Java | 📅 2018-10-30 - by [Jose Luis Garcia del Castillo](http://www.garciadelcastillo.es/)
 * [GL Video](https://github.com/gohai/processing-glvideo) ⚠️ Archived - by [Gottfried Haider](http://gottfriedhaider.com/)
@@ -136,11 +136,11 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [HiVis](https://github.com/OliverColeman/hivis) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2017-08-25 - by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
 * [HiVis](https://github.com/OliverColeman/hivis) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2017-08-25 - by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
 * [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
+* [PS3Eye](https://github.com/diwi/PS3Eye) ⭐ 22 | 🐛 2 | 🌐 Java | 📅 2017-04-20 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Ptmx](https://github.com/linux-man/ptmx) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2021-11-08 - by [Caldas Lopes](http://softlab.pt/)
+* [PS3Eye](https://github.com/diwi/PS3Eye) ⭐ 22 | 🐛 2 | 🌐 Java | 📅 2017-04-20 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [JavaFX](https://github.com/processing/processing4-javafx) ⭐ 21 | 🐛 16 | 🌐 Java | 📅 2022-03-12 - by [The Processing Foundation]()
 * [SFTP](https://github.com/shiffman/SFTP-Processing) ⭐ 21 | 🐛 1 | 🌐 Java | 📅 2019-08-07 - by [Daniel Shiffman](http://www.shiffman.net/)
-* [PS3Eye](https://github.com/diwi/PS3Eye) ⭐ 20 | 🐛 2 | 🌐 Java | 📅 2017-04-20 - by [Thomas Diewald](http://www.thomasdiewald.com/)
-* [PS3Eye](https://github.com/diwi/PS3Eye) ⭐ 20 | 🐛 2 | 🌐 Java | 📅 2017-04-20 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Redis](https://github.com/nok/redis-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [meter](https://github.com/BillKujawa/meter.git) ⭐ 16 | 🐛 2 | 🌐 HTML | 📅 2018-10-09 - by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
   #### Other
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

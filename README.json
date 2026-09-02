@@ -686,7 +686,7 @@
                     "open_issues": 9,
                     "owner": "cansik",
                     "repo": "deep-vision-processing",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": [
                       "classification",
                       "computer-vision",
@@ -758,7 +758,7 @@
                     "open_issues": 6,
                     "owner": "cansik",
                     "repo": "realsense-processing",
-                    "stars": 84,
+                    "stars": 86,
                     "topics": [
                       "camera",
                       "intel",
@@ -1105,6 +1105,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "PS3Eye",
+                  "description": "by Thomas Diewald",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Sony PS3Eye Java/Processing Library.",
+                    "homepage": null,
+                    "id": 86230185,
+                    "language": "Java",
+                    "license": "MIT",
+                    "last_commit": "2017-04-20T03:30:47Z",
+                    "open_issues": 2,
+                    "owner": "diwi",
+                    "repo": "PS3Eye",
+                    "stars": 22,
+                    "topics": [
+                      "libusb",
+                      "processing",
+                      "ps3eye",
+                      "ps3eye-driver"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Ptmx",
                   "description": "by Caldas Lopes",
                   "children": [],
@@ -1121,6 +1147,32 @@
                     "repo": "ptmx",
                     "stars": 22,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PS3Eye",
+                  "description": "by Thomas Diewald",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Sony PS3Eye Java/Processing Library.",
+                    "homepage": null,
+                    "id": 86230185,
+                    "language": "Java",
+                    "license": "MIT",
+                    "last_commit": "2017-04-20T03:30:47Z",
+                    "open_issues": 2,
+                    "owner": "diwi",
+                    "repo": "PS3Eye",
+                    "stars": 22,
+                    "topics": [
+                      "libusb",
+                      "processing",
+                      "ps3eye",
+                      "ps3eye-driver"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1163,58 +1215,6 @@
                     "repo": "SFTP-Processing",
                     "stars": 21,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PS3Eye",
-                  "description": "by Thomas Diewald",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Sony PS3Eye Java/Processing Library.",
-                    "homepage": null,
-                    "id": 86230185,
-                    "language": "Java",
-                    "license": "MIT",
-                    "last_commit": "2017-04-20T03:30:47Z",
-                    "open_issues": 2,
-                    "owner": "diwi",
-                    "repo": "PS3Eye",
-                    "stars": 20,
-                    "topics": [
-                      "libusb",
-                      "processing",
-                      "ps3eye",
-                      "ps3eye-driver"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PS3Eye",
-                  "description": "by Thomas Diewald",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Sony PS3Eye Java/Processing Library.",
-                    "homepage": null,
-                    "id": 86230185,
-                    "language": "Java",
-                    "license": "MIT",
-                    "last_commit": "2017-04-20T03:30:47Z",
-                    "open_issues": 2,
-                    "owner": "diwi",
-                    "repo": "PS3Eye",
-                    "stars": 20,
-                    "topics": [
-                      "libusb",
-                      "processing",
-                      "ps3eye",
-                      "ps3eye-driver"
-                    ]
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:38:23.521Z",
+    "last_updated": "2026-09-02T07:54:13.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
