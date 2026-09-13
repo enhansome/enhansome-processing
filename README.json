@@ -945,7 +945,7 @@
                     "open_issues": 0,
                     "owner": "leadedge",
                     "repo": "SpoutProcessing",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:54:41.067Z",
+    "last_updated": "2026-09-13T08:17:51.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
