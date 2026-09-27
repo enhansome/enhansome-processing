@@ -110,7 +110,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,283 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,283 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
-* [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) ⭐ 287 | 🐛 15 | 🌐 Java | 📅 2025-09-04 - by [Daniel Shiffman](http://www.shiffman.net/)
+* [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) ⭐ 286 | 🐛 15 | 🌐 Java | 📅 2025-09-04 - by [Daniel Shiffman](http://www.shiffman.net/)
 * [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) ⭐ 209 | 🐛 5 | 🌐 HTML | 📅 2023-06-01 - by [Nick 'Milchreis' Müller](http://github.com/milchreis)
 * [HTTP Requests for Processing](https://github.com/runemadsen/HTTP-Requests-for-Processing) ⭐ 145 | 🐛 19 | 🌐 Java | 📅 2022-05-30 - by [Rune Madsen](http://www.runemadsen.com/)
 * [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 142 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
