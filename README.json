@@ -422,7 +422,7 @@
                     "open_issues": 47,
                     "owner": "atduskgreg",
                     "repo": "opencv-processing",
-                    "stars": 1357,
+                    "stars": 1356,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -1451,27 +1451,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Simple Tweet",
-                  "description": "by Gottfried Haider",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Post images from Processing to Twitter",
-                    "homepage": null,
-                    "id": 84825172,
-                    "language": "Java",
-                    "license": null,
-                    "last_commit": "2017-03-13T12:43:39Z",
-                    "open_issues": 0,
-                    "owner": "gohai",
-                    "repo": "processing-simpletweet",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Sweep for Processing",
                   "description": "by Florian Bruggisser",
                   "children": [],
@@ -1495,6 +1474,27 @@
                       "sensor",
                       "sweep"
                     ]
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Simple Tweet",
+                  "description": "by Gottfried Haider",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Post images from Processing to Twitter",
+                    "homepage": null,
+                    "id": 84825172,
+                    "language": "Java",
+                    "license": null,
+                    "last_commit": "2017-03-13T12:43:39Z",
+                    "open_issues": 0,
+                    "owner": "gohai",
+                    "repo": "processing-simpletweet",
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
                 },
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:18:25.515Z",
+    "last_updated": "2026-10-07T10:14:51.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",

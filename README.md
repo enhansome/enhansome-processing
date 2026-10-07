@@ -106,7 +106,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 #### Geometry
 
-* [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,357 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
+* [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,356 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
 * [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,284 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,284 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
@@ -154,8 +154,8 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Squarify](https://github.com/agatheblues/squarify) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
 * [SoundCloud](https://github.com/nok/soundcloud-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Squarify](https://github.com/agatheblues/squarify) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
-* [Simple Tweet](https://github.com/gohai/processing-simpletweet) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2017-03-13 - by [Gottfried Haider](http://gottfriedhaider.com/)
 * [Sweep for Processing](https://github.com/cansik/sweep-processing) ⭐ 6 | 🐛 1 | 🌐 Java | 📅 2018-01-25 - by [Florian Bruggisser](https://bildspur.ch/)
+* [Simple Tweet](https://github.com/gohai/processing-simpletweet) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2017-03-13 - by [Gottfried Haider](http://gottfriedhaider.com/)
 * [Grab](https://github.com/Transmedia-Gx/grab) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2020-05-12 - by [Taka Iwai, Roy Tatum](http://transmedia.graphics/)
 * [Grab](https://github.com/Transmedia-Gx/grab) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2020-05-12 - by [Taka Iwai, Roy Tatum](http://transmedia.graphics/)
 * [Image Sequence Player](https://github.com/orgicus/image-sequence-player) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-10-22 - by [George Profenza](http://www.hirschandmann.com/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
