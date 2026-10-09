@@ -107,8 +107,8 @@ Processing is a flexible software sketchbook and a language for learning how to 
 #### Geometry
 
 * [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,356 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
-* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,283 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
-* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,283 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
+* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,284 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
+* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,284 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) ⭐ 286 | 🐛 15 | 🌐 Java | 📅 2025-09-04 - by [Daniel Shiffman](http://www.shiffman.net/)
 * [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) ⭐ 209 | 🐛 5 | 🌐 HTML | 📅 2023-06-01 - by [Nick 'Milchreis' Müller](http://github.com/milchreis)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
