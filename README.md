@@ -125,7 +125,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [GL Video](https://github.com/gohai/processing-glvideo) ⚠️ Archived - by [Gottfried Haider](http://gottfriedhaider.com/)
 * [LiquidFunProcessing](https://github.com/diwi/LiquidFunProcessing) ⭐ 60 | 🐛 1 | 🌐 Java | 📅 2017-10-12 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Myo for Processing](https://github.com/nok/myo-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
-* [teilchen](https://github.com/dennisppaul/teilchen) ⭐ 49 | 🐛 3 | 🌐 Java | 📅 2026-11-04 - by [Dennis P Paul](https://dennisppaul.de/)
+* [teilchen](https://github.com/dennisppaul/teilchen) ⭐ 49 | 🐛 3 | 🌐 Java | 📅 2026-11-05 - by [Dennis P Paul](https://dennisppaul.de/)
   #### Video & Vision
 * [Signal Filter](https://github.com/SableRaf/signalfilter) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2023-08-11 - by [Raphael de Courville](https://vimeo.com/sableraf/)
 * [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2024-08-27 - by [Lynn Jarvis](https://spout.zeal.co/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
