@@ -758,7 +758,7 @@
                     "open_issues": 6,
                     "owner": "cansik",
                     "repo": "realsense-processing",
-                    "stars": 86,
+                    "stars": 85,
                     "topics": [
                       "camera",
                       "intel",
@@ -1304,6 +1304,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "XlsReader",
+                  "description": "by Florian Jenett",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "a Processing library that can read from .xls (aka. Excel) files",
+                    "homepage": null,
+                    "id": 586929,
+                    "language": "Java",
+                    "license": null,
+                    "last_commit": "2023-01-08T20:41:44Z",
+                    "open_issues": 5,
+                    "owner": "fjenett",
+                    "repo": "xlsreader-library-processing",
+                    "stars": 15,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Novation Launch Control client",
                   "description": "by Half Scheidl",
                   "children": [],
@@ -1319,27 +1340,6 @@
                     "owner": "haschdl",
                     "repo": "pLaunchController",
                     "stars": 14,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "XlsReader",
-                  "description": "by Florian Jenett",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "a Processing library that can read from .xls (aka. Excel) files",
-                    "homepage": null,
-                    "id": 586929,
-                    "language": "Java",
-                    "license": null,
-                    "last_commit": "2023-01-08T20:41:44Z",
-                    "open_issues": 5,
-                    "owner": "fjenett",
-                    "repo": "xlsreader-library-processing",
-                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T10:51:02.977Z",
+    "last_updated": "2026-11-07T10:05:31.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
