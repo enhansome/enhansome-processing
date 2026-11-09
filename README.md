@@ -106,20 +106,20 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 #### Geometry
 
-* [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,356 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
-* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,286 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
-* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,286 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
+* [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,357 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
+* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,287 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
+* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,287 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) ⭐ 286 | 🐛 15 | 🌐 Java | 📅 2025-09-04 - by [Daniel Shiffman](http://www.shiffman.net/)
 * [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) ⭐ 209 | 🐛 5 | 🌐 HTML | 📅 2023-06-01 - by [Nick 'Milchreis' Müller](http://github.com/milchreis)
 * [HTTP Requests for Processing](https://github.com/runemadsen/HTTP-Requests-for-Processing) ⭐ 145 | 🐛 19 | 🌐 Java | 📅 2022-05-30 - by [Rune Madsen](http://www.runemadsen.com/)
-* [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 142 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
+* [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 143 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
 * [RunwayML Processing Library](https://github.com/runwayml/processing-library) ⚠️ Archived - by [George Profenza](http://sensori.al/)
-* [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 111 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
-* [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 107 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
+* [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 112 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
+* [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 108 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
 * [$1 Unistroke Recognizer](https://github.com/nok/onedollar-unistroke-recognizer) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Websockets](https://github.com/alexandrainst/processing_websockets) ⚠️ Archived - by [Lasse Steenbock Vestergaard]()
-* [Intel RealSense for Processing](https://github.com/cansik/realsense-processing) ⭐ 85 | 🐛 6 | 🌐 Java | 📅 2023-10-21 - by [Florian Bruggisser](https://bildspur.ch/)
+* [Intel RealSense for Processing](https://github.com/cansik/realsense-processing) ⭐ 86 | 🐛 6 | 🌐 Java | 📅 2023-10-21 - by [Florian Bruggisser](https://bildspur.ch/)
 * [MQTT](https://github.com/256dpi/processing-mqtt) ⭐ 76 | 🐛 3 | 🌐 Java | 📅 2021-01-06 - by [Joel Gaehwiler](https://github.com/256dpi)
 * [Dashed Lines](https://github.com/garciadelcastillo/-dashed-lines-for-processing-) ⭐ 73 | 🐛 4 | 🌐 Java | 📅 2018-10-30 - by [Jose Luis Garcia del Castillo](http://www.garciadelcastillo.es/)
 * [GL Video](https://github.com/gohai/processing-glvideo) ⚠️ Archived - by [Gottfried Haider](http://gottfriedhaider.com/)
@@ -130,7 +130,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Signal Filter](https://github.com/SableRaf/signalfilter) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2023-08-11 - by [Raphael de Courville](https://vimeo.com/sableraf/)
 * [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2024-08-27 - by [Lynn Jarvis](https://spout.zeal.co/)
 * [BezierSQLib](https://github.com/fjenett/sql-library-processing) ⭐ 40 | 🐛 13 | 🌐 Java | 📅 2023-03-18 - by [Florian Jenett](http://www.bezier.de/)
-* [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 34 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
+* [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [HiVis](https://github.com/OliverColeman/hivis) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2017-08-25 - by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
