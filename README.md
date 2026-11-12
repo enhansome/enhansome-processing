@@ -107,8 +107,8 @@ Processing is a flexible software sketchbook and a language for learning how to 
 #### Geometry
 
 * [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing) ⭐ 1,357 | 🐛 47 | 🌐 Java | 📅 2023-06-12 - by [Greg Borenstein](http://gregborenstein.com/)
-* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,287 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
-* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,287 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
+* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,288 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
+* [PixelFlow](https://github.com/diwi/PixelFlow) ⭐ 1,288 | 🐛 17 | 🌐 Java | 📅 2018-01-10 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) ⭐ 286 | 🐛 15 | 🌐 Java | 📅 2025-09-04 - by [Daniel Shiffman](http://www.shiffman.net/)
 * [Image processing algorithms](http://github.com/milchreis/processing-imageprocessing) ⭐ 209 | 🐛 5 | 🌐 HTML | 📅 2023-06-01 - by [Nick 'Milchreis' Müller](http://github.com/milchreis)
@@ -146,7 +146,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
   #### Other
 * [OCT](https://github.com/thwegene/OCT) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2016-12-12 - by [Thomas Wegener](http://www.thomaswegener.ch/)
 * [DMX4Artists](https://github.com/jaysonh/Dmx4Artists/) ⭐ 15 | 🐛 5 | 🌐 Java | 📅 2023-10-25 - by [Jayson Haebich](http://www.jaysonh.com/)
-* [XlsReader](https://github.com/fjenett/xlsreader-library-processing) ⭐ 15 | 🐛 5 | 🌐 Java | 📅 2023-01-08 - by [Florian Jenett](http://www.bezier.de/)
+* [XlsReader](https://github.com/fjenett/xlsreader-library-processing) ⭐ 14 | 🐛 5 | 🌐 Java | 📅 2023-01-08 - by [Florian Jenett](http://www.bezier.de/)
 * [Novation Launch Control client](https://github.com/haschdl/pLaunchController) ⭐ 14 | 🐛 5 | 🌐 HTML | 📅 2024-08-24 - by [Half Scheidl](https://github.com/haschdl)
   #### Simulation
 * [CountdownTimer](https://github.com/dhchoi/processing-countdowntimer) ⭐ 12 | 🐛 0 | 🌐 Java | 📅 2015-09-01 - by [Dong Hyun Choi](http://dhchoi.com/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

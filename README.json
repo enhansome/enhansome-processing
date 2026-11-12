@@ -443,7 +443,7 @@
                     "open_issues": 17,
                     "owner": "diwi",
                     "repo": "PixelFlow",
-                    "stars": 1287,
+                    "stars": 1288,
                     "topics": [
                       "antialiasing",
                       "cloth-simulation",
@@ -475,7 +475,7 @@
                     "open_issues": 17,
                     "owner": "diwi",
                     "repo": "PixelFlow",
-                    "stars": 1287,
+                    "stars": 1288,
                     "topics": [
                       "antialiasing",
                       "cloth-simulation",
@@ -1318,7 +1318,7 @@
                     "open_issues": 5,
                     "owner": "fjenett",
                     "repo": "xlsreader-library-processing",
-                    "stars": 15,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T10:55:39.053Z",
+    "last_updated": "2026-11-12T11:05:32.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
