@@ -119,7 +119,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 108 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
 * [$1 Unistroke Recognizer](https://github.com/nok/onedollar-unistroke-recognizer) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Websockets](https://github.com/alexandrainst/processing_websockets) ⚠️ Archived - by [Lasse Steenbock Vestergaard]()
-* [Intel RealSense for Processing](https://github.com/cansik/realsense-processing) ⭐ 86 | 🐛 6 | 🌐 Java | 📅 2023-10-21 - by [Florian Bruggisser](https://bildspur.ch/)
+* [Intel RealSense for Processing](https://github.com/cansik/realsense-processing) ⭐ 87 | 🐛 6 | 🌐 Java | 📅 2023-10-21 - by [Florian Bruggisser](https://bildspur.ch/)
 * [MQTT](https://github.com/256dpi/processing-mqtt) ⭐ 76 | 🐛 3 | 🌐 Java | 📅 2021-01-06 - by [Joel Gaehwiler](https://github.com/256dpi)
 * [Dashed Lines](https://github.com/garciadelcastillo/-dashed-lines-for-processing-) ⭐ 73 | 🐛 4 | 🌐 Java | 📅 2018-10-30 - by [Jose Luis Garcia del Castillo](http://www.garciadelcastillo.es/)
 * [GL Video](https://github.com/gohai/processing-glvideo) ⚠️ Archived - by [Gottfried Haider](http://gottfriedhaider.com/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

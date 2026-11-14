@@ -758,7 +758,7 @@
                     "open_issues": 6,
                     "owner": "cansik",
                     "repo": "realsense-processing",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": [
                       "camera",
                       "intel",
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T10:57:02.484Z",
+    "last_updated": "2026-11-14T10:24:23.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
