@@ -48,7 +48,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [QueasyCam](https://github.com/jrc03c/queasycam) ⚠️ Archived - by [Josh Castle](https://twitter.com/jrc03c)
 * [nub](https://github.com/VisualComputing/nub) ⭐ 40 | 🐛 0 | 🌐 Java | 📅 2023-06-13 - by [Jean Pierre Charalambos
   ](https://visualcomputing.github.io/)
-* [Everything Will Be IKEron Gjoni](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
+* [Everything Will Be IKEron Gjoni](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 24 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
 * [Camera 3D](https://ixora.io/projects/camera-3D/) - by [Jim Schmitz](https://ixora.io/)
 * [Collada Loader for SketchUp and Blender](http://www.die-seite.ch/) - by [Markus Zimmermann](http://www.die-seite.ch/)
 * [Culebra Behavior Library for Processing](http://www.complicitmatter.com/culebra-java/) - by [Luis Quinones](http://complicitmatter.com/)
@@ -96,7 +96,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 #### Animation
 
 * [nub](https://github.com/VisualComputing/nub) ⭐ 40 | 🐛 0 | 🌐 Java | 📅 2023-06-13 - by [Jean Pierre Charalambos](https://visualcomputing.github.io/)
-* [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
+* [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 24 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
 * [Latk for Processing](https://github.com/LightningArtist/latkProcessing) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - by [Nick Fox-Gieg](https://fox-gieg.com/)
 * [Ani](http://benedikt-gross.de/libraries/Ani/) - by [Benedikt Gross](http://benedikt-gross.de/)
 * [Green](https://ztdp.ca/projects/school/Green) - by [Zacchary Dempsey-Plante](https://ztdp.ca/)
@@ -133,9 +133,9 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
+* [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 24 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
 * [HiVis](https://github.com/OliverColeman/hivis) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2017-08-25 - by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
 * [HiVis](https://github.com/OliverColeman/hivis) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2017-08-25 - by [Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran](https://github.com/OliverColeman/)
-* [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
 * [PS3Eye](https://github.com/diwi/PS3Eye) ⭐ 22 | 🐛 2 | 🌐 Java | 📅 2017-04-20 - by [Thomas Diewald](http://www.thomasdiewald.com/)
 * [Ptmx](https://github.com/linux-man/ptmx) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2021-11-08 - by [Caldas Lopes](http://softlab.pt/)
 * [PS3Eye](https://github.com/diwi/PS3Eye) ⭐ 22 | 🐛 2 | 🌐 Java | 📅 2017-04-20 - by [Thomas Diewald](http://www.thomasdiewald.com/)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

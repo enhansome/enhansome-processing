@@ -99,7 +99,7 @@
                     "open_issues": 1,
                     "owner": "EGjoni",
                     "repo": "Everything-Will-Be-IK-Processing",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -367,7 +367,7 @@
                     "open_issues": 1,
                     "owner": "EGjoni",
                     "repo": "Everything-Will-Be-IK-Processing",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:21:44.304Z"
@@ -1042,48 +1042,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "HiVis",
-                  "description": "by Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Tools to import, manipulate and interactively visualise data.",
-                    "homepage": null,
-                    "id": 64264884,
-                    "language": "Java",
-                    "license": "LGPL-2.1",
-                    "last_commit": "2017-08-25T02:10:04Z",
-                    "open_issues": 4,
-                    "owner": "OliverColeman",
-                    "repo": "hivis",
-                    "stars": 23,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "HiVis",
-                  "description": "by Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Tools to import, manipulate and interactively visualise data.",
-                    "homepage": null,
-                    "id": 64264884,
-                    "language": "Java",
-                    "license": "LGPL-2.1",
-                    "last_commit": "2017-08-25T02:10:04Z",
-                    "open_issues": 4,
-                    "owner": "OliverColeman",
-                    "repo": "hivis",
-                    "stars": 23,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:21:44.304Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Everything Will Be IK",
                   "description": "by Eron Gjoni",
                   "children": [],
@@ -1098,6 +1056,48 @@
                     "open_issues": 1,
                     "owner": "EGjoni",
                     "repo": "Everything-Will-Be-IK-Processing",
+                    "stars": 24,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "HiVis",
+                  "description": "by Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tools to import, manipulate and interactively visualise data.",
+                    "homepage": null,
+                    "id": 64264884,
+                    "language": "Java",
+                    "license": "LGPL-2.1",
+                    "last_commit": "2017-08-25T02:10:04Z",
+                    "open_issues": 4,
+                    "owner": "OliverColeman",
+                    "repo": "hivis",
+                    "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T15:21:44.304Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "HiVis",
+                  "description": "by Philip Poronnik, Oliver Bown, Oliver Coleman, Phillip Gough, Narayan Sankaran",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tools to import, manipulate and interactively visualise data.",
+                    "homepage": null,
+                    "id": 64264884,
+                    "language": "Java",
+                    "license": "LGPL-2.1",
+                    "last_commit": "2017-08-25T02:10:04Z",
+                    "open_issues": 4,
+                    "owner": "OliverColeman",
+                    "repo": "hivis",
                     "stars": 23,
                     "topics": []
                   },
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:24:23.368Z",
+    "last_updated": "2026-11-15T10:51:44.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.",
