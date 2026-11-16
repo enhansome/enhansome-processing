@@ -115,7 +115,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [HTTP Requests for Processing](https://github.com/runemadsen/HTTP-Requests-for-Processing) ⭐ 145 | 🐛 19 | 🌐 Java | 📅 2022-05-30 - by [Rune Madsen](http://www.runemadsen.com/)
 * [AndroidCapture for Processing](https://github.com/onlylemi/processing-android-capture) ⭐ 143 | 🐛 5 | 🌐 Java | 📅 2018-11-24 - by [Jianbin Qi](https://github.com/onlylemi/)
 * [RunwayML Processing Library](https://github.com/runwayml/processing-library) ⚠️ Archived - by [George Profenza](http://sensori.al/)
-* [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 112 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
+* [ArtNet for Java and Processing](https://github.com/cansik/artnet4j) ⭐ 113 | 🐛 12 | 🌐 Java | 📅 2025-04-24 - by [Florian Bruggisser](https://bildspur.ch/)
 * [Deep Vision](https://github.com/cansik/deep-vision-processing) ⭐ 108 | 🐛 9 | 🌐 Java | 📅 2026-01-09 - by [Florian Bruggisser](https://broox.ch/)
 * [$1 Unistroke Recognizer](https://github.com/nok/onedollar-unistroke-recognizer) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
 * [Websockets](https://github.com/alexandrainst/processing_websockets) ⚠️ Archived - by [Lasse Steenbock Vestergaard]()
@@ -130,7 +130,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [Signal Filter](https://github.com/SableRaf/signalfilter) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2023-08-11 - by [Raphael de Courville](https://vimeo.com/sableraf/)
 * [Spout for Processing](https://github.com/leadedge/SpoutProcessing/wiki) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2024-08-27 - by [Lynn Jarvis](https://spout.zeal.co/)
 * [BezierSQLib](https://github.com/fjenett/sql-library-processing) ⭐ 40 | 🐛 13 | 🌐 Java | 📅 2023-03-18 - by [Florian Jenett](http://www.bezier.de/)
-* [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
+* [dmxP512](https://github.com/hdavid/dmxP512) ⭐ 36 | 🐛 0 | 🌐 Java | 📅 2017-03-12 - by [Henri DAVID](https://github.com/hdavid)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [Combinatorics](https://github.com/fjenett/combinatorics) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2013-04-15 - by [Florian Jenett](http://www.bezier.de/)
 * [Everything Will Be IK](https://github.com/EGjoni/Everything-Will-Be-IK-Processing) ⭐ 24 | 🐛 1 | 🌐 HTML | 📅 2023-05-28 - by [Eron Gjoni](https://github.com/EGjoni/)
@@ -142,10 +142,10 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [JavaFX](https://github.com/processing/processing4-javafx) ⭐ 21 | 🐛 16 | 🌐 Java | 📅 2022-03-12 - by [The Processing Foundation]()
 * [SFTP](https://github.com/shiffman/SFTP-Processing) ⭐ 21 | 🐛 1 | 🌐 Java | 📅 2019-08-07 - by [Daniel Shiffman](http://www.shiffman.net/)
 * [Redis](https://github.com/nok/redis-processing) ⚠️ Archived - by [Darius Morawiec](http://nok.onl/)
+* [DMX4Artists](https://github.com/jaysonh/Dmx4Artists/) ⭐ 16 | 🐛 5 | 🌐 Java | 📅 2023-10-25 - by [Jayson Haebich](http://www.jaysonh.com/)
 * [meter](https://github.com/BillKujawa/meter.git) ⭐ 16 | 🐛 2 | 🌐 HTML | 📅 2018-10-09 - by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
   #### Other
 * [OCT](https://github.com/thwegene/OCT) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2016-12-12 - by [Thomas Wegener](http://www.thomaswegener.ch/)
-* [DMX4Artists](https://github.com/jaysonh/Dmx4Artists/) ⭐ 15 | 🐛 5 | 🌐 Java | 📅 2023-10-25 - by [Jayson Haebich](http://www.jaysonh.com/)
 * [XlsReader](https://github.com/fjenett/xlsreader-library-processing) ⭐ 14 | 🐛 5 | 🌐 Java | 📅 2023-01-08 - by [Florian Jenett](http://www.bezier.de/)
 * [Novation Launch Control client](https://github.com/haschdl/pLaunchController) ⭐ 14 | 🐛 5 | 🌐 HTML | 📅 2024-08-24 - by [Half Scheidl](https://github.com/haschdl)
   #### Simulation
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
