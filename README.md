@@ -146,9 +146,9 @@ Processing is a flexible software sketchbook and a language for learning how to 
 * [meter](https://github.com/BillKujawa/meter.git) ⭐ 16 | 🐛 2 | 🌐 HTML | 📅 2018-10-09 - by [Bill (Papa) Kujaw](https://processing.org/reference/libraries/Papa)
   #### Other
 * [OCT](https://github.com/thwegene/OCT) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2016-12-12 - by [Thomas Wegener](http://www.thomaswegener.ch/)
-* [XlsReader](https://github.com/fjenett/xlsreader-library-processing) ⭐ 14 | 🐛 5 | 🌐 Java | 📅 2023-01-08 - by [Florian Jenett](http://www.bezier.de/)
-* [Novation Launch Control client](https://github.com/haschdl/pLaunchController) ⭐ 14 | 🐛 5 | 🌐 HTML | 📅 2024-08-24 - by [Half Scheidl](https://github.com/haschdl)
+* [Novation Launch Control client](https://github.com/haschdl/pLaunchController) ⭐ 15 | 🐛 5 | 🌐 HTML | 📅 2024-08-24 - by [Half Scheidl](https://github.com/haschdl)
   #### Simulation
+* [XlsReader](https://github.com/fjenett/xlsreader-library-processing) ⭐ 14 | 🐛 5 | 🌐 Java | 📅 2023-01-08 - by [Florian Jenett](http://www.bezier.de/)
 * [CountdownTimer](https://github.com/dhchoi/processing-countdowntimer) ⭐ 12 | 🐛 0 | 🌐 Java | 📅 2015-09-01 - by [Dong Hyun Choi](http://dhchoi.com/)
 * [ImageLoader](https://github.com/keshrath/ImageLoader) ⚠️ Archived - by [Mathias Markl](http://www.mukprojects.at/)
 * [Squarify](https://github.com/agatheblues/squarify) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-06-07 - by [Agathe Lenclen](https://github.com/agatheblues)
@@ -297,4 +297,4 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
